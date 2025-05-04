@@ -5,3 +5,4 @@ folium
 matplotlib
 flask_cors
 scikit-learn
+gunicorn
