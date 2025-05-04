@@ -1,0 +1,8 @@
+flask
+osmnx
+networkx
+folium
+matplotlib
+base64
+flask_cors
+warnings

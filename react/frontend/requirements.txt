@@ -1,0 +1,6 @@
+flask
+osmnx
+networkx
+folium
+matplotlib
+flask_cors
